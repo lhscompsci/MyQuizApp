@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="question1">The capital of Florida is Miami.</string>
+    <string name="question2">The capital of Idaho is Boise.</string>
+    <string name="question3">The capital of Texas is Austin.</string>
+    <string name="question4">The capital of Maine is Portland.</string>
+    <string name="question5">The capital of California is Sacramento.</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="hint_button">HINT</string>
+    <string name="correct_toast">Yay! Great job!</string>
+    <string name="incorrect_toast">Doh!</string>
+    <string name="done_toast">Game Over</string>
+    <string name="warning_text">Are you sure?</string>
+    <string name="show_answer_button">Yes, please</string>
+    <string name="endgame_text">Congratulations!\nYour score is:</string>
+    <string name="reset_button">Play Again?</string>
+    <string name="kill_button">End Game</string>
+    <string name="newHighScoreMsg">Congratulations! You set a new HIGH SCORE!!</string>
+
+
+</resources>
