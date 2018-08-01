@@ -18,6 +18,8 @@
     <string name="reset_button">Play Again?</string>
     <string name="kill_button">End Game</string>
     <string name="newHighScoreMsg">Congratulations! You set a new HIGH SCORE!!</string>
+    <string name="add_name_text">Congratulations! You among the top scores!!\nEnter your name below:</string>
+    <string name="okay_button">Okay</string>
 
 
 </resources>

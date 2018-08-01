@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".HintActivity" />
-        <activity android:name=".ClosingActivity"></activity>
+        <activity android:name=".ClosingActivity" />
+        <activity android:name=".HighScoreNameActivity"></activity>
     </application>
 
 </manifest>
